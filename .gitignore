@@ -1,7 +1,3 @@
-.vscode/ipch/c3ba7f3bf869ef3f/mmap_address.bin
-a.out
-.vscode/ipch/129ede5965c9bc68/day3.ipch
-.vscode/ipch/129ede5965c9bc68/mmap_address.bin
-.vscode/ipch/c3ba7f3bf869ef3f/day2.ipch
-.vscode/ipch/f6fc743ddfc70311/day4.ipch
-.vscode/ipch/f6fc743ddfc70311/mmap_address.bin
+*.ipch
+*.bin
+*.out
